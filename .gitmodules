@@ -1,0 +1,3 @@
+[submodule "rust-linear-algebra"]
+	path = rust-linear-algebra
+	url = git@github.com:obouhlel/rust-linear-algebra.git
